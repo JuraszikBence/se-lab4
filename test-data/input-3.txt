@@ -1,0 +1,2 @@
+GT4500,0,0,10,0
+TORPEDO,SINGLE # an error occurs and the method does not fire the Secondary Store
