@@ -1,0 +1,4 @@
+GT4500,10,0,10,0
+TORPEDO,SINGLE # firing from Primary Store
+TORPEDO,SINGLE # firing from Secondary Store
+TORPEDO,SINGLE # firing from Primary Store
